@@ -2,7 +2,7 @@
 RssReader using Python3 and PyQt5 by Alexander Shirokov.
 ---
 # Software
-1. [Donwload](https://www.python.org/downloads/release/python-371/) Latest Python Version, necessaty 64(!)-bit
+1. [Donwload](https://www.python.org/downloads/release/python-371/) Latest Python Version, necessary 64(!)-bit
 2. **pip install pyqt5**
 3. **pip install feedparser**
 # Особенности программы
